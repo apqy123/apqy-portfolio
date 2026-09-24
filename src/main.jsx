@@ -100,7 +100,7 @@ function App() {
       <main>
         <section className="hero" id="top">
           <div className="hero-copy" data-reveal>
-            <p className="hello"><span>HEY!</span> 我是周雨杰</p>
+            <p className="hello"><span>HEY!</span> 我是 APQY</p>
             <h1>我设计<br /><em>好玩的规则</em><br />和关卡。</h1>
             <p className="hero-intro">玩法策划、关卡策划与游戏开发者。<br />把脑海里的体验，做成真正能玩的游戏。</p>
             <div className="hero-actions"><a className="button button-dark" href="#work">看看我的作品 <ArrowDownRight size={20} /></a><a className="button button-outline" href="#about">关于我 <ArrowDownRight size={20} /></a></div>
